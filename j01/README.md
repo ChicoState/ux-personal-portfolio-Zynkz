@@ -1,5 +1,5 @@
 # Auto Stacking with Autostakkert
-I'm Dylan Hall and I decided to try out Autostakkert, which is an image-stacking software for astrophotography. It's essentially a type of photoshop for hobby telescoping rather than a method for scientific research. I decided to see what it can do because I'm making a similar software for my capstone and thought it would be a good idea to have a base-level understanding of the market.
+I decided to try out Autostakkert, which is an image-stacking software for astrophotography. It's essentially a type of photoshop for hobby telescoping rather than a method for scientific research. I decided to see what it can do because I'm making a similar software for my capstone and thought it would be a good idea to have a base-level understanding of the market.
 
 When stacking, it's common to have a reference image that you'll use to align all your images together and be able to remove any images that deviate too much in quality relative to the reference image. The goal is to reduce noise in the system that was used to take the pictures. This can be things like jet streams, an unstable mount, clouds, or inaccurate tracking.
 
