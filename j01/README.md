@@ -8,4 +8,9 @@ When setting up your image set to be processed, you'll select your reference ima
 For Autostakkert,
 When selecting a folder/file to open in a program, it's **common convention** that you're given a window to navigate to the folder/file you want to select and either double click the file or click the "Open" button when selecting the folder. In their case, if you navigate to the folder where your images are, the button to open the folder is faded and you can't click on it but the **error was recoverable** by selecting the folder just above the folder I wanted and selecting the folder I wanted in the separate display area on the bottom.
 
+<img src="./open_wrong.JPG" width = "50%" height="50%">
+<img src="./open_right.JPG" width = "50%" height="50%">
+
 When assignming my alignment points, before knowing how to, I figured left click must but how to place them and I figured Ctrl click, Alt click, Shift click, or Right click would be how to remove them. Any one of those would meet my expectaions for how the software should work. In this case, my **mental modal** (How I think it should work) matched the **conceptual model** (How it actually works). You find which image you want to use and then you can add alignment points by left clicking and remove them with right clicking.
+
+<img src="./alignment_points.JPG" width = "50%" height="50%">
